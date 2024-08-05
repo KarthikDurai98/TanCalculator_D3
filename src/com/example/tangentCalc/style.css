@@ -1,0 +1,64 @@
+.root {
+    -fx-background-color: #f0f0f0;
+}
+
+.label-title {
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+    -fx-text-alignment: center;
+}
+
+.label-welcome {
+    -fx-font-size: 36px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+    -fx-text-alignment: center;
+}
+
+.label-description {
+    -fx-font-size: 18px;
+    -fx-text-fill: #666;
+    -fx-text-alignment: center;
+    -fx-wrap-text: true;
+}
+
+.text-field {
+    -fx-font-size: 16px;
+    -fx-padding: 10px;
+    -fx-border-color: #ccc;
+    -fx-background-radius: 3px;
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #444;
+    -fx-prompt-text-fill: #C7C8CC;
+}
+
+.label-validation {
+    -fx-font-size: 14px;
+    -fx-text-fill: red;
+}
+
+.button-compute {
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+    -fx-background-color: #4caf50;
+    -fx-text-fill: white;
+    -fx-background-radius: 5px;
+}
+
+.list-view {
+    -fx-font-size: 16px;
+    -fx-padding: 10px;
+    -fx-border-color: #ccc;
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #444;
+}
+
+.choice-box {
+    -fx-font-size: 16px;
+    -fx-padding: 10px;
+    -fx-background-radius: 3px;
+    -fx-border-color: #ccc;
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #444;
+}
