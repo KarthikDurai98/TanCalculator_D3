@@ -1,0 +1,152 @@
+Jul 20, 2024 5:59:09 PM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1.000
+Jul 20, 2024 6:01:12 PM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 20, 2024 6:01:20 PM Main logTangentResult
+INFO: Computed tan(180 Degrees) = 0
+Jul 20, 2024 6:01:22 PM Main logTangentResult
+INFO: Computed tan(18 Degrees) = 0.325
+Jul 20, 2024 6:01:27 PM Main logTangentResult
+INFO: Computed tan(1 Radians) = 1.557
+Jul 20, 2024 6:01:33 PM Main logTangentResult
+INFO: Computed tan(189 Radians) = 6.507
+Jul 20, 2024 6:08:38 PM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 20, 2024 6:08:42 PM Main logTangentResult
+INFO: Computed tan(451 Degrees) = -57.299
+Jul 21, 2024 4:45:43 PM Main logTangentResult
+INFO: Computed tan(12 Degrees) = 0.213
+Jul 21, 2024 7:09:58 PM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 21, 2024 8:03:52 PM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 21, 2024 8:03:56 PM Main logTangentResult
+INFO: Computed tan(100 Degrees) = -5.671
+Jul 21, 2024 8:04:05 PM Main logTangentResult
+INFO: Computed tan(14 Radians) = 0.469
+Jul 21, 2024 8:04:13 PM Main logTangentResult
+INFO: Computed tan(112 Radians) = 3.846
+Jul 22, 2024 8:42:39 AM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 22, 2024 8:42:48 AM Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 22, 2024 8:42:54 AM Main logTangentResult
+INFO: Computed tan(11 Degrees) = 0.194
+Jul 22, 2024 8:51:13 AM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 22, 2024 8:51:16 AM Main logTangentResult
+INFO: Computed tan(451 Radians) = 15.547
+Jul 22, 2024 9:12:21 AM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 22, 2024 9:12:23 AM Main logTangentResult
+INFO: Computed tan(451 Degrees) = -57.299
+Jul 22, 2024 9:12:26 AM Main logTangentResult
+INFO: Computed tan(451 Radians) = 15.547
+Jul 24, 2024 10:35:10 PM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 24, 2024 10:35:12 PM Main logTangentResult
+INFO: Computed tan(451 Degrees) = -57.299
+Jul 24, 2024 10:35:16 PM Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 24, 2024 10:35:28 PM Main logTangentResult
+INFO: Computed tan(-0.140 Degrees) = -0.002
+Jul 24, 2024 10:41:09 PM Main logTangentResult
+INFO: Computed tan(45 Radians) = 1.520
+Jul 24, 2024 10:41:27 PM Main logTangentResult
+INFO: Computed tan(22 Degrees) = 0.404
+Jul 24, 2024 10:41:40 PM Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 24, 2024 10:41:47 PM Main logTangentResult
+INFO: Computed tan(180 Degrees) = 0
+Jul 25, 2024 7:31:24 AM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 25, 2024 7:31:38 AM Main logTangentResult
+INFO: Computed tan(41 Radians) = 1.381
+Jul 25, 2024 7:31:48 AM Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 25, 2024 8:10:24 AM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 25, 2024 8:10:39 AM Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 25, 2024 8:10:46 AM Main logTangentResult
+INFO: Computed tan(11 Radians) = -15.547
+Jul 25, 2024 8:12:22 AM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 25, 2024 11:09:21 AM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 25, 2024 11:09:23 AM Main logTangentResult
+INFO: Computed tan(41 Degrees) = 0.869
+Jul 25, 2024 11:09:27 AM Main logTangentResult
+INFO: Computed tan(12 Radians) = -0.143
+Jul 25, 2024 11:20:30 AM Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 25, 2024 11:20:48 AM Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 25, 2024 11:20:52 AM Main logTangentResult
+INFO: Computed tan(13 Degrees) = 0.231
+Jul 30, 2024 6:45:27 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45.0 Degrees) = 1.000000
+Jul 30, 2024 6:45:37 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(90.0 Degrees) = 16331239353195370.000000
+Jul 30, 2024 6:46:10 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(3.0 Degrees) = 0.052408
+Jul 30, 2024 6:46:15 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(90.0 Degrees) = 16331239353195370.000000
+Jul 30, 2024 6:46:16 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(90.0 Degrees) = 16331239353195370.000000
+Jul 30, 2024 6:49:05 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 30, 2024 6:49:08 PM com.example.tangentCalc.Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 30, 2024 6:49:54 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 30, 2024 6:49:57 PM com.example.tangentCalc.Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 30, 2024 6:55:50 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 30, 2024 6:55:53 PM com.example.tangentCalc.Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 30, 2024 7:02:22 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 30, 2024 7:02:25 PM com.example.tangentCalc.Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 30, 2024 7:04:36 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 30, 2024 7:09:58 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 30, 2024 7:10:01 PM com.example.tangentCalc.Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 30, 2024 7:10:02 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(902 Degrees) = 0.515
+Jul 30, 2024 7:10:11 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(120 Degrees) = -1.732
+Jul 30, 2024 7:10:15 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(180 Degrees) = 0
+Jul 30, 2024 7:18:29 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 30, 2024 7:18:32 PM com.example.tangentCalc.Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 30, 2024 7:18:35 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(92 Radians) = 3.153
+Jul 30, 2024 7:18:39 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(23 Radians) = 0.759
+Jul 31, 2024 4:29:39 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 31, 2024 4:29:42 PM com.example.tangentCalc.Main logTangentResult
+INFO: Undefined tan(90 Degrees) = NaN
+Jul 31, 2024 7:35:36 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Jul 31, 2024 7:35:37 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Aug 03, 2024 4:42:33 PM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Aug 04, 2024 12:05:31 AM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(23 Radians) = 0.759
+Aug 04, 2024 12:05:35 AM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(45 Degrees) = 1
+Aug 04, 2024 12:05:39 AM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(120 Degrees) = -1.732
+Aug 04, 2024 12:05:46 AM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(0 Degrees) = 0
+Aug 04, 2024 12:05:51 AM com.example.tangentCalc.Main logTangentResult
+INFO: Computed tan(100 Radians) = 3.430
